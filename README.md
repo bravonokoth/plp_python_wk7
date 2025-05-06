@@ -14,7 +14,7 @@ pip install pandas matplotlib seaborn scikit-learn
 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/plp_python_wk7.git
+git clone https://github.com/bravonokoth/plp_python_wk7.git
 cd plp_python_wk7
 Run the Python script:
 
